@@ -1,13 +1,7 @@
 # Hello World
 
-How's everyone doing? 
+Hello world! Welcome! This is an updated README! 
 
-> This is cool 
+**EPIC**
 
-## Q: I am very cool
-
-- A: Yes
-
-- B: No
-
-## Alright I'm done :smile:
+Very Cool :+1:
